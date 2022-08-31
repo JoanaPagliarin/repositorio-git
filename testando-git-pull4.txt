@@ -1,2 +1,3 @@
 testando git pull 4
-testando novamente o merge: A B
+testando novamente o merge: A 
+B
