@@ -1,1 +1,2 @@
 ECHO est  ativado.
+Na master, criando propositalmente um conflito de merge
