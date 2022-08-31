@@ -1,1 +1,2 @@
 ECHO est  ativado.
+Na main, tentando criar propositalmente um conflito de merge.
