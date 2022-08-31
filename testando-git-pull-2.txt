@@ -1,2 +1,3 @@
 testando git pull 2
-Verificando qual branch irá receber esse commit 
+- Verificando qual branch irá receber esse commit: recebeu na master, ficando 2 branches com conteudos iguais
+- Estou na main, mudando pull2 para testar o merge. 
